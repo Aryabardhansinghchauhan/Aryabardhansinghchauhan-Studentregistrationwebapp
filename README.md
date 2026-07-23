@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Student Registration Web App — Authentication & Authorization Assignment
+# Student Registration Web App 
 
 ASP.NET Core MVC application with role-based authentication and authorization using ASP.NET Core Identity.
 
@@ -86,5 +86,4 @@ On first run, the app automatically:
 - SQL Server (LocalDB)
 - Bootstrap 5
 =======
-# Aryabardhansinghchauhan-Studentregistrationwebapp
->>>>>>> b998149bc0fe4fd9e80386d80cd7c47eeacfe77b
+
